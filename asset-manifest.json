@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/foodFetish/static/css/main.981f7211.chunk.css",
+    "main.js": "/foodFetish/static/js/main.fe9b0071.chunk.js",
+    "main.js.map": "/foodFetish/static/js/main.fe9b0071.chunk.js.map",
+    "runtime-main.js": "/foodFetish/static/js/runtime-main.7ca9ae64.js",
+    "runtime-main.js.map": "/foodFetish/static/js/runtime-main.7ca9ae64.js.map",
+    "static/css/2.86df01db.chunk.css": "/foodFetish/static/css/2.86df01db.chunk.css",
+    "static/js/2.a702034c.chunk.js": "/foodFetish/static/js/2.a702034c.chunk.js",
+    "static/js/2.a702034c.chunk.js.map": "/foodFetish/static/js/2.a702034c.chunk.js.map",
+    "index.html": "/foodFetish/index.html",
+    "precache-manifest.7d3bae17db213ab01a3f8784a995c7d4.js": "/foodFetish/precache-manifest.7d3bae17db213ab01a3f8784a995c7d4.js",
+    "service-worker.js": "/foodFetish/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/foodFetish/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/foodFetish/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.a702034c.chunk.js.LICENSE.txt": "/foodFetish/static/js/2.a702034c.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/foodFetish/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca9ae64.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.a702034c.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.fe9b0071.chunk.js"
+  ]
+}
